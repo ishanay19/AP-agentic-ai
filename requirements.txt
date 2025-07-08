@@ -285,6 +285,7 @@ safetensors==0.5.3
 scikit-image @ file:///C:/ci/scikit-image_1648214340990/work
 scikit-learn @ file:///C:/ci/scikit-learn_1642617276183/work
 scikit-learn-intelex==2021.20221004.171935
+scikit-learn==1.2.2
 scipy==1.9.1
 Scrapy @ file:///C:/Windows/TEMP/abs_f50e21j997/croots/recipe/scrapy_1659598707153/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
